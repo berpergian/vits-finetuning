@@ -1,1 +1,35 @@
-wav/guraburu/vira/91572.wav|10|不肖、このヴィーラも、お姉様と共に旅のお手伝いをさせて頂きます
+wav/guraburu/vira/3030019000_v_130.wav|10|不肖、このヴィーラも、お姉様と共に旅のお手伝いをさせて頂きます
+wav/guraburu/vira/3030019000_mypage1.wav|10|うふふふっ、興味がおありですか？　私とお姉様の蜜月について
+wav/guraburu/vira/3030019000_mypage2.wav|10|ふぅ、お姉様は何時如何なる時もお美しい
+wav/guraburu/vira/3030019000_mypage3.wav|10|……あのトカゲが、お姉様のご寵愛を一身に受けているのですね
+wav/guraburu/vira/3030019000_v_007c.wav|10|よろしくお願い致します
+wav/guraburu/vira/3030019000_v_009a.wav|10|参りましょう
+wav/guraburu/vira/3030019000_v_010.wav|10|お任せください
+wav/guraburu/vira/3030019000_v_012.wav|10|すべてはお姉様の為に！
+wav/guraburu/vira/3030019000_v_094.wav|10|私だけのもの……
+wav/guraburu/vira/3030019000_v_013.wav|10|ああ、お姉様ぁ……
+wav/guraburu/vira/3030019000_v_015.wav|10|あぁ…！
+wav/guraburu/vira/3030019000_v_011.wav|10|良い調子ですね
+wav/guraburu/vira/3030019000_v_064.wav|10|素晴らしい…！
+wav/guraburu/vira/3030019000_ability_them4.wav|10|さぁ、遊びましょう？
+wav/guraburu/vira/3030019000_ability_them1.wav|10|邪魔をしないで
+wav/guraburu/vira/3030019000_v_088.wav|10|お姉様、お姉様、お姉様！　お姉様ぁ！！
+wav/guraburu/vira/3030019000_ability_them3.wav|10|お姉様のために！
+wav/guraburu/vira/3030019000_v_092b.wav|10|逃がさない！　リストリクションズ・ネイル！　うふひはははは……！
+wav/guraburu/vira/3030019000_v_092.wav|10|リストリクションズ・ネイル！
+wav/guraburu/vira/3030019000_v_055.wav|10|劣勢ですね……
+wav/guraburu/vira/3030019000_v_132b.wav|10|許さないから……
+wav/guraburu/vira/3040043000_v_114.wav|10|んうぅっ…
+wav/guraburu/vira/3040043000_v_036.wav|10|ありがとうございます
+wav/guraburu/vira/3030019000_v_131.wav|10|ヴィーラ・リーリエ、参ります！
+wav/guraburu/vira/3030019000_win1.wav|10|さぁお姉様、向こうで祝杯を挙げましょう？
+wav/guraburu/vira/3030019000_ability_them10.wav|10|静かになってもらいましょうか
+wav/guraburu/vira/3040043000_v_171.wav|10|ご苦労様です
+wav/guraburu/vira/3030019000_ability_us1.wav|10|さぁ、ここからです
+wav/guraburu/vira/3040053000_ability_us1.wav|10|慌ててはなりません
+wav/guraburu/vira/3040043000_ability_them7.wav|10|後悔させて差し上げますッ！
+wav/guraburu/vira/3040043000_birthday1.wav|10|お誕生日おめでとうございます
+wav/guraburu/vira/3040043000_birthday3.wav|10|誕生日ケーキを作ってみたんですけど...…　ああ、お姉さまの誕生日の予行練習なので、お気になさらないで結構ですよ。
+wav/guraburu/vira/3040043000_birthday4.wav|10|団長さんもゆくゆくは、お姉さまのような素敵な方に...…？　ふふ、一応、期待はしておいてあげますね。
+wav/guraburu/vira/3040043000_newyear1.wav|10|あけまして、おめでとうございます。
+wav/guraburu/vira/3040043000_newyear2.wav|10|今年はより一層、お姉様に密に寄り添った一年にしたいですね。

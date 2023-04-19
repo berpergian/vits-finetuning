@@ -1,1 +1,11 @@
-wav/guraburu/vira/14045.wav|10|うふふふっ、興味がおありですか？　私とお姉様の蜜月について
+wav/guraburu/vira/3040043000_Valentine1.wav|10|ハッピーバレンタインデー
+wav/guraburu/vira/3040043000_WhiteDay1.wav|10|ハッピーホワイトデー！
+wav/guraburu/vira/3040043000_WhiteDay2.wav|10|バレンタインのお返しですか？　お姉様から以外はあんまり興味がないのですが…　あぁ、一応受け取っておきますね。ありがとうございます
+wav/guraburu/vira/3040043000_Halloween1.wav|10|ハッピーハロウィン
+wav/guraburu/vira/3040043000_Halloween2.wav|10|トリック・オア・トリット
+wav/guraburu/vira/3040043000_Halloween4.wav|10|お姉様に...悪戯？あ、あぁ、いいえ！そんな破廉恥なことは…！…でも...
+wav/guraburu/vira/3040043000_Xmas1.wav|10|メリークリスマス
+wav/guraburu/vira/3030019000_v_001b.wav|10|はぁっ
+wav/guraburu/vira/3030019000_v_005a.wav|10|終わりだ！
+wav/guraburu/vira/3030019000_v_006a.wav|10|ていっ
+wav/guraburu/vira/3030019000_v_0014.wav|10|うふふ……
